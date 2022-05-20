@@ -1,0 +1,7 @@
+{
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.18",
+        "digitalstars/simplevk": "^2.14",
+        "box/spout": "^3.3"
+    }
+}
